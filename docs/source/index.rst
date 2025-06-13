@@ -1,22 +1,23 @@
-Welcome to Lumache's documentation!
-===================================
+ArchVis Exterior Procedural Tools Manual
+============================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Architectural Visualization Exterior Procedural Tools is a blender geometry nodes pack. It designed to easily create parts of the exterior of buildings.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Features:
 
-.. note::
-
-   This project is under active development.
+* Non-destrucive workflow 
+* Fully parametrized procedural generation
+* Optimized low poly geometry
+* Automatic UV unwrap for UDIM pipeline
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Installation
+   Window Generator
+   Facade Generator
+   Roof Generator
+   Railing Generator
+   Ladder Generator
