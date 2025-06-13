@@ -7,7 +7,7 @@ copyright = '2025, YujinZushi'
 author = 'YujinZushi'
 
 release = '0.1'
-version = '4.3.0'
+version = 'Blender 4.3.0'
 
 # -- General configuration
 
