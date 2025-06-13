@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Archvis Procedural Tools Manual'
+copyright = '2025, YujinZushi'
+author = 'YujinZushi'
 
 release = '0.1'
-version = '0.1.0'
+version = '4.3.0'
 
 # -- General configuration
 
