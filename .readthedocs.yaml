@@ -14,4 +14,4 @@ sphinx:
 
 # Build PDF & ePub
 formats:
-  - pdf
+  - epub
