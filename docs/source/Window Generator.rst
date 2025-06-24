@@ -3,6 +3,12 @@ Window Generator
 
 Создаёт окно из плейна
 
+|window_demo|
+
+.. |window_demo| raw:: html
+
+    <iframe width="720" height="405" src="https://rutube.ru/play/embed/9d3791cc9abf971ba17e61e607732355" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 Параметры:
 
 * глубина всей коробки
