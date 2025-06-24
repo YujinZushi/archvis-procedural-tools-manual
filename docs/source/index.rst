@@ -1,17 +1,17 @@
 ArchVis Exterior Procedural Tools Manual
 ============================================
 
-Architectural Visualization Exterior Procedural Tools is a blender geometry nodes pack. It designed to easily create parts of the exterior of buildings.
+**Architectural Visualization Exterior Procedural Tools** - это набор геометрических нод для Blender. Он предназначен для быстрого процедурного создания внешних частей зданий.
 
-Features:
+**Особенности**:
 
-* Non-destrucive workflow 
-* Fully parametrized procedural generation
-* Optimized low poly geometry
-* Automatic UV unwrap for UDIM pipeline
+* Параметризированная процедурная генерация
+* Оптимизированная низкополигональная геометрия
+* Автоматическая развёртка и определение UDIM тайлов
+* Non-destrucive workflow - пока модификатор не применён, можно менять изначальную геометрию налету
 
-Contents
---------
+Содержание
+------------
 
 .. toctree::
 
