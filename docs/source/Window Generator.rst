@@ -1,6 +1,8 @@
 Window Generator
 ================
 
+.. image:: images/window_demo.png
+
 Создаёт окно из плоскости, в том числе угловые. В местах, где плоскость разделена лупкатом, будут созданы оконные перегородки.
 
 |window_demo|
@@ -12,10 +14,12 @@ Window Generator
 Части окна
 -----------------
 
-.. image:: images\window_parts.png
+.. image:: images/window_parts.png
 
 Параметры
 -----------------
+
+.. image:: images/window_parameters.png
 
 * Box Depth - глубина всей коробки
 * Indent Depth - глубина отступа от фасада
@@ -27,7 +31,7 @@ Window Generator
 .. note:: 
     Настройка Fill Inner Geometry нужна для угловых окон, где можно увидеть обратную сторону окна. В других случаях настройку лучше отключать для оптимизации
 
-    .. image:: images\window_fillinnergeometry.png
+    .. image:: images/window_fillinnergeometry.png
 
 **Glass UV - развёртка стёкол**
 
@@ -54,13 +58,13 @@ Window Generator
 .. caution::
     При создании нескольких обособленных плейнов внутри одного меша появится лишняя геометрия и будут проблемы с развёрткой
 
-    .. image:: images\window_multiplewindows.png
+    .. image:: images/window_multiplewindows.png
 
 Советы
 -----------
 
 На Т-образных узлах внутри остаётся лишняя геометрия. Бóльшая часть убирается модификатором Decimate в режиме Planar
 
-.. image:: images\window_T.png
+.. image:: images/window_T.png
 
-.. image:: images\window_decimate.png
+.. image:: images/window_decimate.png
