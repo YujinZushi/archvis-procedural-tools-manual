@@ -8,6 +8,8 @@ Railing Generator
 Параметры
 ---------------
 
+.. image:: images/railing_parameters.png
+
 * Height - высота ограждения
 * Resoolution - количество полигонов в сечении поручня
 * Radius - радиус поручня
@@ -52,5 +54,4 @@ Railing Generator
 Советы
 -------------
 
-* Для корректной развёртки внешней части (фасад) перед **Roof Generator** стоит использовать модификатор **Facade Generator**
 * Избегать острых углов
