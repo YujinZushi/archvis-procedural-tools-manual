@@ -1,10 +1,14 @@
 Ladder Generator
 ================
 
+.. image:: images/ladder_demo.png
+
 Создаёт лестницу из меша. Разрезы на плоскостях образуют ступеньки
 
 Параметры
 -------------
+
+.. image:: images/ladder_parameters.png
 
 **Rail** - перила
 
