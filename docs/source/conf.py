@@ -1,6 +1,6 @@
 # Configuration file for the Sphinx documentation builder.
 
-# -- Project information
+# Project information
 
 project = 'Archvis Procedural Tools Manual'
 copyright = '2025, YujinZushi'
@@ -9,7 +9,7 @@ author = 'YujinZushi'
 release = '0.1'
 version = 'Blender 4.3.0'
 
-# -- General configuration
+# General configuration
 
 extensions = [
     'sphinx.ext.duration',
@@ -27,9 +27,13 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-# -- Options for HTML output
-
+# Options for HTML output
 html_theme = 'sphinx_rtd_theme'
 
-# -- Options for EPUB output
+# Options for EPUB output
 epub_show_urls = 'footnote'
+
+# Custom css
+#html_css_files = [
+#    'css/rtd_dark.css',
+#]
